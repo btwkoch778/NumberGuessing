@@ -1,0 +1,10 @@
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe.config
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.exe
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\bin\Debug\NumberGuessing.pdb
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.AssemblyReference.cache
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.Properties.Resources.resources
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.GenerateResource.cache
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.exe
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.pdb
+C:\Users\ewez\OneDrive\Desktop\github\NumberGuessing\NumberGuessing\obj\Debug\NumberGuessing.Form1.resources
